@@ -30,8 +30,5 @@ Main file :
 
 ![image](https://user-images.githubusercontent.com/90852420/192159213-81af6faf-e81c-4c59-932d-f02363878dda.png)
 
-Output :
-
-![image](https://user-images.githubusercontent.com/90852420/192159106-7fbc65cb-7030-4231-9701-98bba5af072b.png)
  
 
