@@ -5,6 +5,40 @@
 #include<conio.h>
 
 
+class Employee 
+{
+    private vacation_days;
+
+    private hourly_rate;
+
+    private monthly_salary;
+
+    
+
+    public function get_vacation_days() 
+    {
+
+        return this->vacation_days;
+
+    public function get_hourly() 
+    {
+
+        return this->hourly_rate;
+
+    }
+
+    public function get_monthly() 
+    {
+
+        return this->monthly_salary;
+
+    }
+
+
+    }
+
+}
+
 void read_file(int arr[], int& size)
 {
     int integer;
